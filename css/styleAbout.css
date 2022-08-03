@@ -1,0 +1,65 @@
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+  text-align: left;
+  font-family: 'Albert Sans', sans-serif;
+  padding-left: 15px;
+}
+
+
+a:link {
+  color: black;
+  font-size: 30px;
+  font-family: 'Libre Caslon Text', serif;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  font-size: 30px;
+  font-family: 'Libre Caslon Text', serif;
+  text-decoration: none;
+  font-style: italic;
+  color: rgb(223, 176, 228);
+}
+
+.descripcion {
+  font-family: 'Albert Sans', sans-serif;
+  font-size: 25px;
+  padding-top: 50px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 40;
+  transform: rotate(180deg);
+  color: rgb(223, 176, 228);
+}
+
+.volver {
+  padding-left: 12px;
+  padding-top: 40px;
+
+}
+
+
+
+footer {
+  font-family: 'Albert Sans', sans-serif;
+  font-size: 15px;
+  padding-left: 15px;
+  bottom: 0px;
+  position: absolute;
+}

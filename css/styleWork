@@ -1,0 +1,45 @@
+body {
+  background-color: whitesmoke;
+}
+
+
+h1 {
+    text-align: left;
+    font-family: 'Albert Sans', sans-serif;
+    padding-left: 15px;
+    margin-bottom: 5px;
+}
+.contenido {
+    padding-left: 500px;
+    list-style-type:none;
+  }
+  
+  .contenido a:link {
+    color: black;
+    font-size: 110px;
+    font-family: 'Libre Caslon Text', serif;
+    text-decoration: none;
+  }
+    
+  .contenido a:visited {
+    color: black;
+  }
+  
+  .contenido a:hover {
+      font-size: 110px;
+      font-family: 'Libre Caslon Text', serif;
+      text-decoration: none;
+      font-style: italic;
+      color: rgb(234, 188, 238);
+  }
+  
+  
+  footer {
+    font-family: 'Albert Sans', sans-serif;
+    font-size: 15px;
+    padding-left: 15px;
+    bottom: 0px;
+    position: absolute;
+  }
+  
+  
